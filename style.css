@@ -677,7 +677,21 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
+}
+
+.chou {
+    font-size: 22px;
+}
+
+.lachou {
+    font-size: 20px;
+    color: #000000;
+    font-style: italic;
+}
+
+.guib{
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -692,7 +706,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #000000!important; /*mot contact*/
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -780,7 +794,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important; /*mot contact*/
 }
 
 .btn-atomic-tangerine:hover {
